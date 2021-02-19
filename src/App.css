@@ -1,8 +1,33 @@
 .App {
   text-align: center;
+  background-color: rgb(155, 155, 155, .7);
+  width: 75%;
+  margin-left: 12.5%;
+  height: 95vh;
+  font-family: consolas;
+  overflow-y: hidden;
+}
+ul{
+  border:1px black solid;
+  width: fit-content;
+  height: 80.25%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-left: 0%;
+  padding-right: 1%;
+}
+h2{
+  font-size: 300%;
+}
+P{
+  font-size: 300%;
+}
+span{
+  font-size: 300%;
 }
 .Header {
-  color: #443e3e;
+  color: #5c93e6;
   text-shadow: 1px 1px 5px #fff;
+  margin-left: 1%;
 }
 /* write your parent styles in here for your App.js */
