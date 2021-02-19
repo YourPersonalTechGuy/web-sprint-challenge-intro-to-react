@@ -87,4 +87,7 @@ const creatingList = people.map((person,index)=>{
   );
 }
 
+
+
+
 export default App;
